@@ -1,0 +1,9 @@
+# Etags file
+TAGS
+*.mem
+
+# temp editor files
+*~
+
+# Data dir
+data

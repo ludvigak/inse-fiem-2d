@@ -1,0 +1,9 @@
+Makefile
+bin/*
+*.o
+temp/*
+# Fortran files
+*.o
+
+# temp editor files
+*~
