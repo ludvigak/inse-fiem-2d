@@ -1,8 +1,9 @@
 # INSE FIEM 2D #
 Fast integral equation solver for the incompressible Navier-Stokes equations in 2D.
 
-This code accompanies the paper "A Fast Integral Equation Method for the Two-Dimensional
-Navier-Stokes Equations" by L. af Klinteberg, T. Askham and M. C. Kropinski.
+This code accompanies the paper "[A Fast Integral Equation Method for the Two-Dimensional
+Navier-Stokes Equations](https://doi.org/10.1016/j.jcp.2020.109353)" by L. af Klinteberg, T. Askham and M. C. Kropinski. 
+An open access postprint of the paper is available [here](https://ludvigak.github.io/publication/2020-nse2d/2020_nse2d_jcp.pdf).
 
 Note that this software is not well-documented, and only partially user-friendly. It is mainly supplied as supplementary material for the abovementioned paper.
 
